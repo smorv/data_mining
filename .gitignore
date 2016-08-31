@@ -90,3 +90,12 @@ ENV/
 
 # User
 *~
+/scripts/.idea/.name
+/scripts/.idea/dictionaries/Francesc.xml
+/scripts/.idea/encodings.xml
+/scripts/.idea/misc.xml
+/scripts/.idea/modules.xml
+/scripts/.idea/scopes/scope_settings.xml
+/scripts/.idea/scripts.iml
+/scripts/.idea/vcs.xml
+/scripts/.idea/workspace.xml
