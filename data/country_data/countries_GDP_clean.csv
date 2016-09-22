@@ -1,0 +1,229 @@
+0;USA;1;United States;17946996.0
+1;CHN;2;China;10866444.0
+2;JPN;3;Japan;4123258.0
+3;DEU;4;Germany;3355772.0
+4;GBR;5;United Kingdom;2848755.0
+5;FRA;6;France;2421682.0
+6;IND;7;India;2073543.0
+7;ITA;8;Italy;1814763.0
+8;BRA;9;Brazil;1774725.0
+9;CAN;10;Canada;1550537.0
+10;KOR;11;Korea, Rep.;1377873.0
+11;AUS;12;Australia;1339539.0
+12;RUS;13;Russian Federation;1326015.0
+13;ESP;14;Spain;1199057.0
+14;MEX;15;Mexico;1144331.0
+15;IDN;16;Indonesia;861934.0
+16;NLD;17;Netherlands;752547.0
+17;TUR;18;Turkey;718221.0
+18;CHE;19;Switzerland;664738.0
+19;SAU;20;Saudi Arabia;646002.0
+20;ARG;21;Argentina;548055.0
+21;SWE;22;Sweden;492618.0
+22;NGA;23;Nigeria;481066.0
+23;POL;24;Poland;474783.0
+24;BEL;25;Belgium;454039.0
+25;IRN;26;Iran, Islamic Rep.;425326.0
+26;THA;27;Thailand;395282.0
+27;NOR;28;Norway;388315.0
+28;AUT;29;Austria;374056.0
+29;VEN;30;Venezuela, RB;371337.0
+30;ARE;31;United Arab Emirates;370293.0
+31;EGY;32;Egypt, Arab Rep.;330779.0
+32;ZAF;33;South Africa;312798.0
+33;HKG;34;Hong Kong SAR, China;309929.0
+34;MYS;35;Malaysia;296218.0
+35;ISR;36;Israel;296075.0
+36;DNK;37;Denmark;295164.0
+37;SGP;38;Singapore;292739.0
+38;COL;39;Colombia;292080.0
+39;PHL;40;Philippines;291965.0
+40;PAK;41;Pakistan;269971.0
+41;CHL;42;Chile;240216.0
+42;IRL;43;Ireland;238020.0
+43;FIN;44;Finland;229810.0
+44;PRT;45;Portugal;198931.0
+45;GRC;46;Greece;195212.0
+46;BGD;47;Bangladesh;195079.0
+47;VNM;48;Vietnam;193599.0
+48;PER;49;Peru;192084.0
+49;KAZ;50;Kazakhstan;184361.0
+50;CZE;51;Czech Republic;181811.0
+51;ROM;52;Romania;177954.0
+52;NZL;53;New Zealand;173754.0
+53;IRQ;54;Iraq;168607.0
+54;QAT;55;Qatar;166908.0
+55;DZA;56;Algeria;166839.0
+56;HUN;57;Hungary;120687.0
+57;KWT;58;Kuwait;112812.0
+58;PRI;59;Puerto Rico;103135.0
+59;AGO;60;Angola;102643.0
+60;ECU;61;Ecuador;100872.0
+61;MAR;62;Morocco;100360.0
+62;UKR;63;Ukraine;90615.0
+63;SVK;64;Slovak Republic;86582.0
+64;SDN;65;Sudan;84067.0
+65;LKA;66;Sri Lanka;82316.0
+66;CUB;67;Cuba;77150.0
+67;OMN;68;Oman;70255.0
+68;DOM;69;Dominican Republic;67103.0
+69;UZB;70;Uzbekistan;66733.0
+70;MMR;71;Myanmar;64866.0
+71;GTM;72;Guatemala;63794.0
+72;KEN;73;Kenya;63398.0
+73;ETH;74;Ethiopia;61537.0
+74;LUX;75;Luxembourg;57794.0
+75;BLR;76;Belarus;54609.0
+76;URY;77;Uruguay;53443.0
+77;AZE;78;Azerbaijan;53047.0
+78;PAN;79;Panama;52132.0
+79;CRI;80;Costa Rica;51107.0
+80;BGR;81;Bulgaria;48953.0
+81;HRV;82;Croatia;48732.0
+82;LBN;83;Lebanon;47103.0
+83;MAC;84;Macao SAR, China;46178.0
+84;TZA;85;Tanzania;44895.0
+85;TUN;86;Tunisia;43015.0
+86;SVN;87;Slovenia;42747.0
+87;LTU;88;Lithuania;41244.0
+88;GHA;89;Ghana;37864.0
+89;JOR;90;Jordan;37517.0
+90;TKM;91;Turkmenistan;37334.0
+91;SRB;92;Serbia;36513.0
+92;YEM;93;Yemen, Rep.;35955.0
+93;ZAR;94;Congo, Dem. Rep.;35238.0
+94;BOL;95;Bolivia;33197.0
+95;BHR;96;Bahrain;32221.0
+96;CIV;97;Côte d'Ivoire;31753.0
+97;CMR;98;Cameroon;29198.0
+98;LBY;99;Libya;29153.0
+99;TTO;100;Trinidad and Tobago;27806.0
+100;PRY;101;Paraguay;27623.0
+101;LVA;102;Latvia;27035.0
+102;UGA;103;Uganda;26369.0
+103;SLV;104;El Salvador;25850.0
+104;EST;105;Estonia;22691.0
+105;ZMB;106;Zambia;21202.0
+106;NPL;107;Nepal;20881.0
+107;HND;108;Honduras;20152.0
+108;CYP;109;Cyprus;19320.0
+109;AFG;110;Afghanistan;19199.0
+110;KHM;111;Cambodia;18050.0
+111;PNG;112;Papua New Guinea;16929.0
+112;ISL;113;Iceland;16598.0
+113;BIH;114;Bosnia and Herzegovina;15995.0
+114;BRN;115;Brunei Darussalam;15492.0
+115;MOZ;116;Mozambique;14689.0
+116;BWA;117;Botswana;14391.0
+117;GAB;118;Gabon;14340.0
+118;JAM;119;Jamaica;14006.0
+119;GEO;120;Georgia;13965.0
+120;ZWE;121;Zimbabwe;13893.0
+121;SEN;122;Senegal;13780.0
+122;MLI;123;Mali;13100.0
+123;NIC;124;Nicaragua;12693.0
+124;WBG;125;West Bank and Gaza;12677.0
+125;LAO;126;Lao PDR;12327.0
+126;MNG;127;Mongolia;11758.0
+127;NAM;128;Namibia;11546.0
+128;MUS;129;Mauritius;11511.0
+129;ALB;130;Albania;11456.0
+130;BFA;131;Burkina Faso;11099.0
+131;TCD;132;Chad;10889.0
+132;ARM;133;Armenia;10561.0
+133;MKD;134;Macedonia, FYR;10086.0
+134;MDG;135;Madagascar;9981.0
+135;MLT;136;Malta;9643.0
+136;GNQ;137;Equatorial Guinea;9398.0
+137;SSD;138;South Sudan;9015.0
+138;BHS;139;Bahamas, The;8884.0
+139;HTI;140;Haiti;8877.0
+140;COG;141;Congo, Rep.;8553.0
+141;BEN;142;Benin;8476.0
+142;RWA;143;Rwanda;8096.0
+143;TJK;144;Tajikistan;7853.0
+144;NER;145;Niger;7143.0
+145;IMY;146;Isle of Man;6754.0
+146;GIN;147;Guinea;6699.0
+147;KGZ;148;Kyrgyz Republic;6572.0
+148;MWI;149;Malawi;6565.0
+149;MDA;150;Moldova;6551.0
+150;KSV;151;Kosovo;6386.0
+151;SOM;152;Somalia;5953.0
+152;BMU;153;Bermuda;5574.0
+153;MRT;154;Mauritania;5442.0
+154;SUR;155;Suriname;4878.0
+155;SLE;156;Sierra Leone;4475.0
+156;BRB;157;Barbados;4451.0
+157;FJI;158;Fiji;4386.0
+158;SWZ;159;Swaziland;4060.0
+159;TGO;160;Togo;4003.0
+160;MNE;161;Montenegro;3993.0
+161;ADO;162;Andorra;3249.0
+162;GUY;163;Guyana;3166.0
+163;MDV;164;Maldives;3143.0
+164;BDI;165;Burundi;3085.0
+165;FRO;166;Faroe Islands;2613.0
+166;GRL;167;Greenland;2441.0
+167;LSO;168;Lesotho;2181.0
+168;LBR;169;Liberia;2053.0
+169;BTN;170;Bhutan;1962.0
+170;BLZ;171;Belize;1763.0
+171;CPV;172;Cabo Verde;1630.0
+172;DJI;173;Djibouti;1589.0
+173;CAF;174;Central African Republic;1503.0
+174;SYC;175;Seychelles;1438.0
+175;LCA;176;St. Lucia;1436.0
+176;TMP;177;Timor-Leste;1412.0
+177;ATG;178;Antigua and Barbuda;1297.0
+178;SLB;179;Solomon Islands;1157.0
+179;GNB;180;Guinea-Bissau;1057.0
+180;GRD;181;Grenada;978.0
+181;KNA;182;St. Kitts and Nevis;922.0
+182;GMB;183;Gambia, The;851.0
+183;VUT;184;Vanuatu;815.0
+184;WSM;185;Samoa;761.0
+185;VCT;186;St. Vincent and the Grenadines;751.0
+186;COM;187;Comoros;624.0
+187;DMA;188;Dominica;538.0
+188;TON;189;Tonga;434.0
+189;STP;190;São Tomé and Principe;337.0
+190;FSM;191;Micronesia, Fed. Sts.;318.0
+191;PLW;192;Palau;287.0
+192;MHL;193;Marshall Islands;187.0
+193;KIR;194;Kiribati;145.0
+194;TUV;195;Tuvalu;38.0
+195;ASM;;American Samoa;
+196;ABW;;Aruba;
+197;VGB;;British Virgin Islands;
+198;CYM;;Cayman Islands;
+199;CHI;;Channel Islands;
+200;CUW;;Curaçao;
+201;ERI;;Eritrea;
+202;PYF;;French Polynesia;
+203;GIB;;Gibraltar;
+204;GUM;;Guam;
+205;PRK;;Korea, Dem. People's Rep.;
+206;LIE;;Liechtenstein;
+207;MCO;;Monaco;
+208;NRU;;Nauru;
+209;NCL;;New Caledonia;
+210;MNP;;Northern Mariana Islands;
+211;SMR;;San Marino;
+212;SXM;;Sint Maarten (Dutch part);
+213;MAF;;St. Martin (French part);
+214;SYR;;Syrian Arab Republic;
+215;TCA;;Turks and Caicos Islands;
+216;VIR;;Virgin Islands (U.S.);
+217;WLD;;World;73433644.0
+218;EAS;;East Asia & Pacific;21281190.0
+219;ECS;;Europe & Central Asia;19985557.0
+220;LCN;;Latin America & Caribbean;5148022.0
+221;MEA;;Middle East & North Africa;3113598.0
+222;NAC;;North America;19503407.0
+223;SAS;;South Asia;2666094.0
+224;SSF;;Sub-Saharan Africa;1572873.0
+225;LIC;;Low income;392904.0
+226;LMC;;Lower middle income;5820363.0
+227;UMC;;Upper middle income;19732884.0
+228;HIC;;High income;46985247.0
