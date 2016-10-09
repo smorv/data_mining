@@ -1,0 +1,8 @@
+# data from experiment A
+/Name/Age/Time
+Alice,22,23:20
+BOB,,26:43
+#the following people has a penalization of 3minutes
+Charlie ,"22",24:09
+ David,,
+##############
